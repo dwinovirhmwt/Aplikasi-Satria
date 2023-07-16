@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:backgroundTint="@color/blue2" /> <!-- Warna latar belakang -->
+    <corners android:radius="20dp" /> <!-- Jari-jari kelengkungan -->
+
+
+</shape>

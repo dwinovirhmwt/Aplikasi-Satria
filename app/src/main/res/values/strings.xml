@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Satria MobileApp Monitoring</string>
+    <string name="item_label">Items</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
